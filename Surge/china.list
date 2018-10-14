@@ -1,5 +1,118 @@
 DOMAIN-SUFFIX, cn
 
+# 360
+DOMAIN-SUFFIX, qhimg.com
+DOMAIN-SUFFIX, qihucdn.com
+DOMAIN-SUFFIX, 360.com
+DOMAIN-SUFFIX, baomitu.com
+DOMAIN-SUFFIX, qhres.com
+DOMAIN-SUFFIX, so.com
+
+# 4399
+DOMAIN-SUFFIX, 4399.com
+DOMAIN-SUFFIX, 5054399.com
+DOMAIN-SUFFIX, img4399.com
+
+# CSDN
+DOMAIN-SUFFIX, csdn.net
+
+# PandaTV
+DOMAIN-SUFFIX, panda.tv
+DOMAIN-SUFFIX, pdim.gs
+DOMAIN-SUFFIX, xiongmaoxingyan.com
+
+# bilibili
+DOMAIN-SUFFIX, bilibili.com
+DOMAIN-SUFFIX, biligame.com
+DOMAIN-SUFFIX, biligame.net
+DOMAIN-SUFFIX, hdslb.com
+DOMAIN-SUFFIX, biliapi.com
+DOMAIN-SUFFIX, acgvideo.com
+
+# 七牛云
+DOMAIN-SUFFIX, qiniu.com
+DOMAIN-SUFFIX, qiniucdn.com
+DOMAIN-SUFFIX, qnssl.com
+DOMAIN-SUFFIX, qbox.me
+DOMAIN-SUFFIX, cloudvdn.com
+
+# 京东
+DOMAIN-SUFFIX, jd.com
+DOMAIN-SUFFIX, jdpay.com
+DOMAIN-SUFFIX, 360buyimg.com
+DOMAIN-SUFFIX, jcloudcache.com
+DOMAIN-SUFFIX, joybuy.com
+DOMAIN-SUFFIX, jcloudcs.com
+DOMAIN-SUFFIX, jdcloud.com
+
+# 优酷
+DOMAIN-SUFFIX, youku.com
+DOMAIN-SUFFIX, ykimg.com
+DOMAIN-SUFFIX, soku.com
+
+# 全民直播
+DOMAIN-SUFFIX, quanmin.tv
+DOMAIN-SUFFIX, qmtv.com
+DOMAIN-SUFFIX, shouyintv.cn
+
+# 凤凰网
+DOMAIN-SUFFIX, ifeng.com
+DOMAIN-SUFFIX, ifengimg.com
+
+# 又拍云
+DOMAIN-SUFFIX, upyun.com
+DOMAIN-SUFFIX, aicdn.com
+
+# 友盟
+DOMAIN-SUFFIX, umeng.com
+DOMAIN-SUFFIX, umsns.com
+
+# 大众点评
+DOMAIN-SUFFIX, dianping.com
+DOMAIN-SUFFIX, dpfile.com
+
+# 天涯
+DOMAIN-SUFFIX, tianyaui.com
+
+# 字节跳动（今日头条、抖音、西瓜）
+DOMAIN-SUFFIX, toutiao.com
+DOMAIN-SUFFIX, pstatp.com
+DOMAIN-SUFFIX, douyin.com
+DOMAIN-SUFFIX, ixigua.com
+DOMAIN-SUFFIX, aweme.snssdk.com
+DOMAIN-SUFFIX, iesdouyin.com
+DOMAIN-SUFFIX, amemv.com
+
+# 小米
+DOMAIN-SUFFIX, mi.com
+DOMAIN-SUFFIX, xiaomi.com
+DOMAIN-SUFFIX, mi-img.com
+DOMAIN-SUFFIX, miui.com
+DOMAIN-SUFFIX, xiaomi.net
+DOMAIN-SUFFIX, mi-idc.com
+
+# 搜狐
+DOMAIN-SUFFIX, sohu.com
+DOMAIN-SUFFIX, sohucs.com
+DOMAIN-SUFFIX, sogoucdn.com
+
+# 斗鱼
+DOMAIN-SUFFIX, douyu.com
+
+# 新华网
+DOMAIN-SUFFIX, xinhuanet.com
+
+# 新浪
+DOMAIN-SUFFIX, weibo.com
+DOMAIN-SUFFIX, sina.com
+DOMAIN-SUFFIX, sinaapp.com
+DOMAIN-SUFFIX, miaopai.com
+
+# 爱奇异
+DOMAIN-SUFFIX, iqiyi.com
+DOMAIN-SUFFIX, iqiyipic.com
+DOMAIN-SUFFIX, qy.net
+
 # 百度
 DOMAIN-SUFFIX, baidu.com
 DOMAIN-SUFFIX, baiducontent.com
@@ -8,6 +121,28 @@ DOMAIN-SUFFIX, baiduimg.com
 DOMAIN-SUFFIX, bdstatic.com
 DOMAIN-SUFFIX, qianqian.com
 DOMAIN-SUFFIX, taihe.com
+DOMAIN-SUFFIX, hao123.com
+
+# 知乎
+DOMAIN-SUFFIX, zhihu.com
+DOMAIN-SUFFIX, zhimg.com
+
+# 网宿科技
+DOMAIN-SUFFIX, ourdvsss.com
+DOMAIN-SUFFIX, lxdns.com
+DOMAIN-SUFFIX, wscdns.com
+
+# 网易
+DOMAIN-SUFFIX, 163.com
+DOMAIN-SUFFIX, 126.net
+DOMAIN-SUFFIX, 127.net
+DOMAIN-SUFFIX, 163yun.com
+DOMAIN-SUFFIX, netease.com
+DOMAIN-SUFFIX, kaola.com
+
+# 美团
+DOMAIN-SUFFIX, meituan.com
+DOMAIN-SUFFIX, meituan.net
 
 # 腾讯
 DOMAIN-SUFFIX, qq.com
@@ -20,10 +155,42 @@ DOMAIN-SUFFIX, myqcloud.com
 DOMAIN-SUFFIX, qqmail.com
 DOMAIN-SUFFIX, wechat.com
 
+# 芒果TV
+DOMAIN-SUFFIX, mgtv.com
+DOMAIN-SUFFIX, hitv.com
+
+# 虎扑
+DOMAIN-SUFFIX, hupu.com
+DOMAIN-SUFFIX, hupucdn.com
+
+# 虾米
+DOMAIN-SUFFIX, xiami.com
+DOMAIN-SUFFIX, xiami.net
+
+# 豆瓣
+DOMAIN-SUFFIX, douban.com
+DOMAIN-SUFFIX, doubanio.com
+DOMAIN-SUFFIX, douban.fm
+
+# 起点
+DOMAIN-SUFFIX, qidian.com
+DOMAIN-SUFFIX, yuewen.com
+
+# 迅雷星域云
+DOMAIN-SUFFIX, xycdn.com
+
+# 酷狗
+DOMAIN-SUFFIX, kugou.com
+DOMAIN-SUFFIX, kgimg.com
+
+# 铁血
+DOMAIN-SUFFIX, tiexue.net
+
 # 阿里巴巴
 DOMAIN-SUFFIX, taobao.com
 DOMAIN-SUFFIX, tmall.com
 DOMAIN-SUFFIX, aliyun.com
+DOMAIN-SUFFIX, aliyuncs.com
 DOMAIN-SUFFIX, alicdn.com
 DOMAIN-SUFFIX, alimama.com
 DOMAIN-SUFFIX, alibaba.com
@@ -31,113 +198,9 @@ DOMAIN-SUFFIX, alipay.com
 DOMAIN-SUFFIX, alipayobjects.com
 DOMAIN-SUFFIX, alisports.com
 
-# 字节跳动（今日头条、抖音、西瓜）
-DOMAIN-SUFFIX, toutiao.com
-DOMAIN-SUFFIX, pstatp.com
-DOMAIN-SUFFIX, douyin.com
-DOMAIN-SUFFIX, ixigua.com
-DOMAIN-SUFFIX, aweme.snssdk.com
-DOMAIN-SUFFIX, iesdouyin.com
-DOMAIN-SUFFIX, amemv.com
-
-# bilibili
-DOMAIN-SUFFIX, bilibili.com
-DOMAIN-SUFFIX, biligame.com
-DOMAIN-SUFFIX, biligame.net
-DOMAIN-SUFFIX, hdslb.com
-DOMAIN-SUFFIX, biliapi.com
-
-# 京东
-DOMAIN-SUFFIX, jd.com
-DOMAIN-SUFFIX, jdpay.com
-DOMAIN-SUFFIX, 360buyimg.com
-DOMAIN-SUFFIX, jcloudcache.com
-DOMAIN-SUFFIX, joybuy.com
-DOMAIN-SUFFIX, jcloudcs.com
-DOMAIN-SUFFIX, jdcloud.com
-
-# 360
-DOMAIN-SUFFIX, qhimg.com
-DOMAIN-SUFFIX, qihucdn.com
-DOMAIN-SUFFIX, 360.com
-DOMAIN-SUFFIX, baomitu.com
-DOMAIN-SUFFIX, qhres.com
-DOMAIN-SUFFIX, so.com
-
-# 网易
-DOMAIN-SUFFIX, 163.com
-DOMAIN-SUFFIX, 126.net
-DOMAIN-SUFFIX, 127.net
-DOMAIN-SUFFIX, 163yun.com
-DOMAIN-SUFFIX, netease.com
-DOMAIN-SUFFIX, kaola.com
-
-# 搜狐
-DOMAIN-SUFFIX, sohu.com
-DOMAIN-SUFFIX, sohucs.com
-DOMAIN-SUFFIX, sogoucdn.com
-
-# CSDN
-DOMAIN-SUFFIX, csdn.net
-
-# 天涯
-DOMAIN-SUFFIX, tianyaui.com
-
-# 虎扑
-DOMAIN-SUFFIX, hupu.com
-DOMAIN-SUFFIX, hupucdn.com
-
-# 铁血
-DOMAIN-SUFFIX, tiexue.net
-
-# 知乎
-DOMAIN-SUFFIX, zhihu.com
-DOMAIN-SUFFIX, zhimg.com
-
-# 新浪
-DOMAIN-SUFFIX, weibo.com
-DOMAIN-SUFFIX, sina.com
-DOMAIN-SUFFIX, sinaapp.com
-DOMAIN-SUFFIX, miaopai.com
-
-# 优酷
-DOMAIN-SUFFIX, youku.com
-DOMAIN-SUFFIX, ykimg.com
-DOMAIN-SUFFIX, soku.com
-
-# 爱奇异
-DOMAIN-SUFFIX, iqiyi.com
-DOMAIN-SUFFIX, iqiyipic.com
-DOMAIN-SUFFIX, qy.net
-
-# 又拍云
-DOMAIN-SUFFIX, upyun.com
-DOMAIN-SUFFIX, aicdn.com
-
-# 七牛云
-DOMAIN-SUFFIX, qiniu.com
-DOMAIN-SUFFIX, qiniucdn.com
-DOMAIN-SUFFIX, qnssl.com
-DOMAIN-SUFFIX, qbox.me
-
-# 新华网
-DOMAIN-SUFFIX, xinhuanet.com
-
-# 高德
-DOMAIN-SUFFIX, amap.com
-
-# 小米
-DOMAIN-SUFFIX, mi.com
-DOMAIN-SUFFIX, xiaomi.com
-DOMAIN-SUFFIX, mi-img.com
-DOMAIN-SUFFIX, miui.com
-DOMAIN-SUFFIX, xiaomi.net
-DOMAIN-SUFFIX, mi-idc.com
-
 # 饿了么
 DOMAIN-SUFFIX, ele.me
 DOMAIN-SUFFIX, elemecdn.com
 
-# 友盟
-DOMAIN-SUFFIX, umeng.com
-DOMAIN-SUFFIX, umsns.com
+# 高德
+DOMAIN-SUFFIX, amap.com
