@@ -40,6 +40,9 @@ DOMAIN-KEYWORD, google
 DOMAIN-KEYWORD, blogspot
 DOMAIN-SUFFIX, gstatic.com
 DOMAIN-SUFFIX, blogger.com
+DOMAIN-SUFFIX, gvt0.com
+DOMAIN-SUFFIX, gvt1.com
+DOMAIN-SUFFIX, gvt2.com
 
 # Instagram
 DOMAIN-SUFFIX, instagram.com
@@ -62,16 +65,16 @@ DOMAIN-SUFFIX, steamstatic.com
 # Telegram
 DOMAIN-KEYWORD, telegram
 DOMAIN-SUFFIX, t.me
-IP-CIDR, 91.108.4.0/22
-IP-CIDR, 91.108.8.0/22
-IP-CIDR, 91.108.12.0/22
-IP-CIDR, 91.108.16.0/22
-IP-CIDR, 91.108.56.0/22
-IP-CIDR, 109.239.140.0/24
-IP-CIDR, 149.154.160.0/20
-IP-CIDR, 149.154.164.0/22
-IP-CIDR, 149.154.168.0/22
-IP-CIDR, 149.154.172.0/22
+IP-CIDR, 91.108.4.0/22, no-resolve
+IP-CIDR, 91.108.8.0/22, no-resolve
+IP-CIDR, 91.108.12.0/22, no-resolve
+IP-CIDR, 91.108.16.0/22, no-resolve
+IP-CIDR, 91.108.56.0/22, no-resolve
+IP-CIDR, 109.239.140.0/24, no-resolve
+IP-CIDR, 149.154.160.0/20, no-resolve
+IP-CIDR, 149.154.164.0/22, no-resolve
+IP-CIDR, 149.154.168.0/22, no-resolve
+IP-CIDR, 149.154.172.0/22, no-resolve
 
 # Twitter
 PROCESS-NAME, Twitter
@@ -91,6 +94,7 @@ USER-AGENT, WhatsApp*
 DOMAIN-KEYWORD, youtube
 DOMAIN-SUFFIX, youtu.be
 DOMAIN-SUFFIX, ytimg.com
+DOMAIN-SUFFIX, ggpht.com
 
 # telegraph
 DOMAIN-SUFFIX, telegra.ph
