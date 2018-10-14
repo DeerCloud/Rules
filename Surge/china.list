@@ -1,5 +1,3 @@
-DOMAIN-SUFFIX, cn
-
 # 360
 DOMAIN-SUFFIX, qhimg.com
 DOMAIN-SUFFIX, qihucdn.com
@@ -62,10 +60,16 @@ DOMAIN-SUFFIX, ifengimg.com
 # 又拍云
 DOMAIN-SUFFIX, upyun.com
 DOMAIN-SUFFIX, aicdn.com
+DOMAIN-SUFFIX, upcdn.net
 
 # 友盟
 DOMAIN-SUFFIX, umeng.com
 DOMAIN-SUFFIX, umsns.com
+
+# 图床
+DOMAIN-SUFFIX, ooo.0o0.ooo
+DOMAIN-SUFFIX, loli.net
+DOMAIN-SUFFIX, i.v2ex.co
 
 # 大众点评
 DOMAIN-SUFFIX, dianping.com
@@ -90,6 +94,15 @@ DOMAIN-SUFFIX, mi-img.com
 DOMAIN-SUFFIX, miui.com
 DOMAIN-SUFFIX, xiaomi.net
 DOMAIN-SUFFIX, mi-idc.com
+
+# 微软
+DOMAIN-SUFFIX, microsoft.com
+DOMAIN-SUFFIX, live.com
+DOMAIN-SUFFIX, office.net
+DOMAIN-SUFFIX, outlook.com
+DOMAIN-SUFFIX, microsoftonline.com
+DOMAIN-SUFFIX, bing.com
+DOMAIN-SUFFIX, bing.net
 
 # 搜狐
 DOMAIN-SUFFIX, sohu.com
@@ -122,6 +135,7 @@ DOMAIN-SUFFIX, bdstatic.com
 DOMAIN-SUFFIX, qianqian.com
 DOMAIN-SUFFIX, taihe.com
 DOMAIN-SUFFIX, hao123.com
+DOMAIN-SUFFIX, bdimg.com
 
 # 知乎
 DOMAIN-SUFFIX, zhihu.com
@@ -131,6 +145,7 @@ DOMAIN-SUFFIX, zhimg.com
 DOMAIN-SUFFIX, ourdvsss.com
 DOMAIN-SUFFIX, lxdns.com
 DOMAIN-SUFFIX, wscdns.com
+DOMAIN-SUFFIX, 8686c.com
 
 # 网易
 DOMAIN-SUFFIX, 163.com
@@ -154,6 +169,8 @@ DOMAIN-SUFFIX, qcloudimg.com
 DOMAIN-SUFFIX, myqcloud.com
 DOMAIN-SUFFIX, qqmail.com
 DOMAIN-SUFFIX, wechat.com
+DOMAIN-SUFFIX, qiecdn.com
+DOMAIN-SUFFIX, v.smtcdns.net
 
 # 芒果TV
 DOMAIN-SUFFIX, mgtv.com
@@ -162,6 +179,9 @@ DOMAIN-SUFFIX, hitv.com
 # 虎扑
 DOMAIN-SUFFIX, hupu.com
 DOMAIN-SUFFIX, hupucdn.com
+
+# 虎牙
+DOMAIN-SUFFIX, huya.com
 
 # 虾米
 DOMAIN-SUFFIX, xiami.com
@@ -198,9 +218,14 @@ DOMAIN-SUFFIX, alipay.com
 DOMAIN-SUFFIX, alipayobjects.com
 DOMAIN-SUFFIX, alisports.com
 
+# 青云
+DOMAIN-SUFFIX, qingstor.com
+
 # 饿了么
 DOMAIN-SUFFIX, ele.me
 DOMAIN-SUFFIX, elemecdn.com
 
 # 高德
 DOMAIN-SUFFIX, amap.com
+
+DOMAIN-SUFFIX, cn

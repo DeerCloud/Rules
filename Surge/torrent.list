@@ -1,0 +1,11 @@
+# 迅雷
+PROCESS-NAME, Thunder
+PROCESS-NAME, com.xunlei.Thunder.DownloadService
+
+# Web Torrent
+PROCESS-NAME, WebTorrent
+PROCESS-NAME, WebTorrent Helper
+
+# Torrent
+DOMAIN-KEYWORD, torrent
+URL-REGEX, (ed2k|torrent|\.torrent|peer_id=|announce|info_hash|get_peers|find_node|BitTorrent|announce_peer|protocol|announce\.php\?passkey=|magnet:|xunlei|sandai|Thunder|XLLiveUD|bt_key)

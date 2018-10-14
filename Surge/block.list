@@ -17,6 +17,12 @@ DOMAIN-SUFFIX, blizzard.com
 DOMAIN-SUFFIX, box.com
 DOMAIN-SUFFIX, box.net
 
+# DigitalOcean
+DOMAIN-SUFFIX, digitalocean.com
+
+# Disqus
+DOMAIN-SUFFIX, disqus.com
+
 # Dropbox
 PROCESS-NAME, Dropbox
 DOMAIN-SUFFIX, dropbox.com
@@ -43,6 +49,9 @@ DOMAIN-SUFFIX, blogger.com
 DOMAIN-SUFFIX, gvt0.com
 DOMAIN-SUFFIX, gvt1.com
 DOMAIN-SUFFIX, gvt2.com
+
+# Imgur
+DOMAIN-SUFFIX, imgur.com
 
 # Instagram
 DOMAIN-SUFFIX, instagram.com
@@ -85,6 +94,9 @@ DOMAIN-SUFFIX, t.co
 DOMAIN-SUFFIX, twimg.co
 DOMAIN-SUFFIX, twimg.com
 DOMAIN-SUFFIX, twitpic.com
+
+# Vultr
+DOMAIN-SUFFIX, vultr.com
 
 # WhatsApp
 DOMAIN-KEYWORD, whatsapp
