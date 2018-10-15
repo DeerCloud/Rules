@@ -9,12 +9,20 @@ DOMAIN-SUFFIX, itunes.com
 DOMAIN-SUFFIX, itunes.apple.com
 DOMAIN-SUFFIX, lookup-api.apple.com
 DOMAIN-SUFFIX, me.com
+DOMAIN-SUFFIX, apple.comscoreresearch.com
 
 PROCESS-NAME, storedownloadd
 
-USER-AGENT, com.apple.appstored*
+# 地图
 USER-AGENT, %E5%9C%B0%E5%9B%BE*
+# 设置
 USER-AGENT, %E8%AE%BE%E7%BD%AE*
+# 股市
+USER-AGENT, %E8%82%A1%E5%B8%82*
+# 播客
+USER-AGENT, %E6%92%AD%E5%AE%A2*
+
+USER-AGENT, com.apple.appstored*
 USER-AGENT, *com.apple.mobileme.fmip1
 USER-AGENT, *WeatherFoundation*
 USER-AGENT, AssistantServices*
@@ -24,6 +32,7 @@ USER-AGENT, cloudd*
 USER-AGENT, com.apple.appstored*
 USER-AGENT, com.apple.geod*
 USER-AGENT, com.apple.Maps
+USER-AGENT, com.apple.trustd*
 USER-AGENT, FindMyFriends*
 USER-AGENT, FindMyiPhone*
 USER-AGENT, FMDClient*
@@ -32,5 +41,7 @@ USER-AGENT, fmflocatord*
 USER-AGENT, geod*
 USER-AGENT, locationd*
 USER-AGENT, Maps*
+USER-AGENT, AppleStocks*
+USER-AGENT, AppleCoreMedia*
 
 IP-CIDR, 17.0.0.0/8
