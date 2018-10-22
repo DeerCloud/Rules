@@ -42,6 +42,5 @@ USER-AGENT, geod*
 USER-AGENT, locationd*
 USER-AGENT, Maps*
 USER-AGENT, AppleStocks*
-USER-AGENT, AppleCoreMedia*
 
 IP-CIDR, 17.0.0.0/8
