@@ -100,6 +100,7 @@ DOMAIN-SUFFIX, miui.com
 DOMAIN-SUFFIX, xiaomi.net
 DOMAIN-SUFFIX, mi-idc.com
 DOMAIN-SUFFIX, appmifile.com
+DOMAIN-SUFFIX, mipay.com
 
 # 小红书
 DOMAIN-SUFFIX, xiaohongshu.com
@@ -120,6 +121,7 @@ DOMAIN-SUFFIX, yangkeduo.com
 # 搜狐
 DOMAIN-SUFFIX, sohu.com
 DOMAIN-SUFFIX, sohucs.com
+DOMAIN-SUFFIX, sogou.com
 DOMAIN-SUFFIX, sogoucdn.com
 
 # 斗鱼
@@ -227,8 +229,10 @@ DOMAIN-SUFFIX, douban.fm
 DOMAIN-SUFFIX, qidian.com
 DOMAIN-SUFFIX, yuewen.com
 
-# 迅雷星域云
+# 迅雷
+DOMAIN-SUFFIX, xunlei.com
 DOMAIN-SUFFIX, xycdn.com
+DOMAIN-SUFFIX, sandai.net
 
 # 酷狗
 DOMAIN-SUFFIX, kugou.com
@@ -248,6 +252,7 @@ DOMAIN-SUFFIX, alipayobjects.com
 DOMAIN-SUFFIX, alisports.com
 DOMAIN-SUFFIX, aliapp.org
 DOMAIN-SUFFIX, mmstat.com
+DOMAIN-SUFFIX, aliyun-inc.com
 
 # 青云
 DOMAIN-SUFFIX, qingstor.com
@@ -258,5 +263,6 @@ DOMAIN-SUFFIX, elemecdn.com
 
 # 高德
 DOMAIN-SUFFIX, amap.com
+DOMAIN-SUFFIX, autonavi.com
 
 DOMAIN-SUFFIX, cn

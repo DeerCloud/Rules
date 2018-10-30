@@ -53,6 +53,7 @@ DOMAIN-SUFFIX, gvt0.com
 DOMAIN-SUFFIX, gvt1.com
 DOMAIN-SUFFIX, gvt2.com
 DOMAIN-SUFFIX, gvt3.com
+DOMAIN-SUFFIX, goo.gl
 
 # Imgur
 DOMAIN-SUFFIX, imgur.com
