@@ -20,6 +20,11 @@ DOMAIN-SUFFIX, box.net
 # DigitalOcean
 DOMAIN-SUFFIX, digitalocean.com
 
+# Discord
+DOMAIN-SUFFIX, discordapp.com
+DOMAIN-SUFFIX, discordapp.net
+DOMAIN-SUFFIX, discord.gg
+
 # Disqus
 DOMAIN-SUFFIX, disqus.com
 
