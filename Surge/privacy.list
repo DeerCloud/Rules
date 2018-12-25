@@ -1,0 +1,31 @@
+# admaster
+DOMAIN-SUFFIX, admaster.com.cn
+
+# adroll
+DOMAIN-SUFFIX, s.adroll.com
+
+# cnzz
+DOMAIN-SUFFIX, cnzz.com
+
+# disqus
+DOMAIN-SUFFIX, referrer.disqus.com
+DOMAIN-SUFFIX, disqusads.com
+
+# heap analytics
+DOMAIN-SUFFIX, heapanalytics.com
+
+# github
+DOMAIN-SUFFIX, collector.githubapp.com
+
+# google
+DOMAIN-SUFFIX, google-analytics.com
+DOMAIN-SUFFIX, doubleclick.net
+
+# mmstat
+DOMAIN-SUFFIX, mmstat.com
+
+# scorecardresearch
+DOMAIN-SUFFIX, scorecardresearch.com
+
+# tencent
+DOMAIN-SUFFIX, btrace.qq.com
