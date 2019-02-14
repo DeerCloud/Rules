@@ -113,7 +113,8 @@ DOMAIN-KEYWORD, whatsapp
 USER-AGENT, WhatsApp*
 
 # WikiPedia
-DOMAIN-SUFFIX, zh.wikipedia.org
+DOMAIN-SUFFIX, wikipedia.org
+DOMAIN-SUFFIX, wikimedia.org
 
 # YouTube
 DOMAIN-KEYWORD, youtube
